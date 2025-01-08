@@ -5,12 +5,12 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
-<title>Categories | The Race Formula</title>
+<title>Posts | The Race Formula</title>
 <meta name="keywords" content="">
-<meta name="description" content="">
+<meta name="description" content="Posts - The Race Formula">
 <meta name="author" content="">
-<link rel="canonical" href="https://theraceformula.com/categories/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.css" rel="preload stylesheet" as="style">
+<link rel="canonical" href="https://theraceformula.com/posts/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.9de45e225101e4f99701d2b68fc6b8a1ef6027928be6391fa15bf7f56326c909.css" integrity="sha256-neReIlEB5PmXAdK2j8a4oe9gJ5KL5jkfoVv39WMmyQk=" rel="preload stylesheet" as="style">
 <link rel="icon" href="https://theraceformula.com/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="https://theraceformula.com/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="https://theraceformula.com/favicon-32x32.png">
@@ -18,8 +18,8 @@
 <link rel="mask-icon" href="https://theraceformula.com/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" type="application/rss+xml" href="https://theraceformula.com/categories/index.xml">
-<link rel="alternate" hreflang="en" href="https://theraceformula.com/categories/">
+<link rel="alternate" type="application/rss+xml" href="https://theraceformula.com/posts/index.xml">
+<link rel="alternate" hreflang="en" href="https://theraceformula.com/posts/">
 <noscript>
     <style>
         #theme-toggle,
@@ -56,15 +56,30 @@
         }
 
     </style>
-</noscript><meta property="og:url" content="https://theraceformula.com/categories/">
+</noscript><meta property="og:url" content="https://theraceformula.com/posts/">
   <meta property="og:site_name" content="The Race Formula">
-  <meta property="og:title" content="Categories">
+  <meta property="og:title" content="Posts">
   <meta property="og:locale" content="en-us">
   <meta property="og:type" content="website">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Categories">
+<meta name="twitter:title" content="Posts">
 <meta name="twitter:description" content="">
 
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "Posts",
+      "item": "https://theraceformula.com/posts/"
+    }
+  ]
+}
+</script>
 </head>
 
 <body class="list" id="top">
@@ -110,13 +125,12 @@
         </ul>
     </nav>
 </header>
-<main class="main">
+<main class="main"> 
 <header class="page-header">
-    <h1>Categories</h1>
+  <h1>
+    Posts
+  </h1>
 </header>
-
-<ul class="terms-tags">
-</ul>
     </main>
     
 <footer class="footer">
