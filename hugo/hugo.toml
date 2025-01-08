@@ -1,0 +1,5 @@
+baseURL = 'https://theraceformul.com'
+languageCode = 'en-us'
+title = 'The Race Formula'
+theme = ["PaperMod"]
+publishDir = "docs"
