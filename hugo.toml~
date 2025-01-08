@@ -1,4 +1,4 @@
-baseURL = 'https://theraceformul.com'
+baseURL = 'https://theraceformula.com'
 languageCode = 'en-us'
 title = 'The Race Formula'
 theme = ["PaperMod"]
